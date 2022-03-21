@@ -1,0 +1,2 @@
+# algoritmo-voto
+Atividade algoritmo
