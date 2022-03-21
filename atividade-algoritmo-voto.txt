@@ -1,3 +1,6 @@
-Se o jovem possui idade inferior a 16 anos, não vota, se o jovem tem a idade minima de 16 anos ele(a) já está apto para tirar seu titulo de eleitor e fica a seu critério votar ou não. Para o jovem que tem 18 anos de idade ou mais, seu voto é obrigatório, e a pessoa que tem a idade superior a 70 anos está isenta de qualquer obrigatoriedade de voto, se tornando opcional.
+Se o jovem possui idade inferior a 16 anos, não vota.
+se o jovem tem a idade minima de 16 anos ele(a) já está apto para tirar seu titulo de eleitor e fica a seu critério votar ou não.
+Para o jovem que tem 18 anos de idade ou mais, seu voto é obrigatório.
+A pessoa que tem a idade superior a 70 anos está isenta de qualquer obrigatoriedade de voto, se tornando opcional.
 
 
